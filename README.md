@@ -1,4 +1,4 @@
-# Leaf traits linked to structure and palatability drive gall and mine damage within forested ecoystems
+# Leaf traits linked to structure and palatability drive gall and mine damage within three forested ecoystems
 Authors: Lauren Azevedo-Schmidt<sup>1*,2,3</sup>, Ellen D. Currano<sup>3,4</sup>
 
 Affiliations: \
